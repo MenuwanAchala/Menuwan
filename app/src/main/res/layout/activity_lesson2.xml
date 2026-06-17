@@ -10,7 +10,7 @@
         android:id="@+id/edtName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Name"
+        android:hint="Enter Name"
         android:inputType="textPersonName"
         android:layout_marginBottom="10dp"/>
 
@@ -18,7 +18,7 @@
         android:id="@+id/edtEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Email"
+        android:hint="Enter Email"
         android:inputType="textEmailAddress"
         android:layout_marginBottom="10dp"/>
 
@@ -26,7 +26,7 @@
         android:id="@+id/edtMobile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Mobile Number"
+        android:hint="Enter Mobile Number"
         android:inputType="phone"
         android:layout_marginBottom="15dp"/>
 

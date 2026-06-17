@@ -9,12 +9,12 @@
         android:id="@+id/txt1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome to Fragment A"
+        android:text="This is Fragment A"
         android:textSize="24sp" />
 
     <Button
         android:id="@+id/btnMove"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Let's move to Fragment B"/>
+        android:text="Click to go to Fragment B"/>
 </LinearLayout>

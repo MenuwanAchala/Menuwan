@@ -23,7 +23,7 @@ public class Lesson1 extends AppCompatActivity {
         btnL1=findViewById(R.id.btnL1);
         btnL1.setOnClickListener(
                 view-> {
-                    Toast.makeText(Lesson1.this,"Welcome to Lesson 1!!!",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Lesson1.this,"Hello World!",Toast.LENGTH_SHORT).show();
                 }
         );
 
